@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cef72b17-5c9b-4b0c-a3d0-e98cf8581c4d" name="Changes" comment="init order">
-      <change beforePath="$PROJECT_DIR$/eurka/src/main/java/com/example/eurka1/Eurka1Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/eurka/src/main/java/com/example/eurka1/Eurka1Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurka/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,7 +204,7 @@
       <workItem from="1729396421900" duration="5268000" />
       <workItem from="1729403275136" duration="1673000" />
       <workItem from="1729404992941" duration="424000" />
-      <workItem from="1729405449433" duration="6791000" />
+      <workItem from="1729405449433" duration="7969000" />
     </task>
     <task id="LOCAL-00001" summary="init order">
       <created>1729307624863</created>
@@ -245,6 +246,7 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="BEK_SORT_TYPE" value="1" />
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
