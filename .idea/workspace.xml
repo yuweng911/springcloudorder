@@ -4,36 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cef72b17-5c9b-4b0c-a3d0-e98cf8581c4d" name="Changes" comment="init order">
-      <change afterPath="$PROJECT_DIR$/eureka/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurka1/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurka1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurka1/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurka1/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurka1/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurka1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurka1/src/main/java/com/example/eurka1/Eurka1Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurka1/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurka1/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurka1/src/test/java/com/example/eurka1/Eurka1ApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka" beforeDir="false" afterPath="$PROJECT_DIR$/eureka" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka/src/main/java/com/example/eureka/EurekaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka/src/main/java/com/example/eureka/EurekaApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order2" beforeDir="false" afterPath="$PROJECT_DIR$/order2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order3" beforeDir="false" afterPath="$PROJECT_DIR$/order3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order3/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cef72b17-5c9b-4b0c-a3d0-e98cf8581c4d" name="Changes" comment="init order" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +21,7 @@
     <option name="BRANCH" value="origin/main" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/eurka1" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/eurka" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -230,7 +201,7 @@
       <workItem from="1729396421900" duration="5268000" />
       <workItem from="1729403275136" duration="1673000" />
       <workItem from="1729404992941" duration="424000" />
-      <workItem from="1729405449433" duration="6048000" />
+      <workItem from="1729405449433" duration="6576000" />
     </task>
     <task id="LOCAL-00001" summary="init order">
       <created>1729307624863</created>
@@ -246,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1729405923901</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="init order">
+      <created>1729434590649</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729434590649</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
