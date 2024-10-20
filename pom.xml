@@ -5,6 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
 
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>2.0.7.RELEASE</version>
+
+    </parent>
     <groupId>org.example</groupId>
     <artifactId>springcloudorder1.10.07</artifactId>
     <packaging>pom</packaging>
@@ -22,6 +28,14 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
     </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+    </dependencies>
+
 
     <!--  因为是总项目,所以用dependencyManagement来管理，子项目不用管理版本了，可以直接引用 子模块继承之后，提供作用：锁定版本+子module不用写groupId和version -->
     <dependencyManagement>
