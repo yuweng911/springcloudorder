@@ -5,10 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cef72b17-5c9b-4b0c-a3d0-e98cf8581c4d" name="Changes" comment="init order">
+      <change afterPath="$PROJECT_DIR$/eureka/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurka1/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurka1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurka1/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurka1/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurka1/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurka1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurka1/src/main/java/com/example/eurka1/Eurka1Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurka1/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurka1/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurka1/src/test/java/com/example/eurka1/Eurka1ApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eureka" beforeDir="false" afterPath="$PROJECT_DIR$/eureka" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/mvnw.cmd" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/eureka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/src/main/java/com/example/eureka/EurekaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka/src/main/java/com/example/eureka/EurekaApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order2" beforeDir="false" afterPath="$PROJECT_DIR$/order2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order3" beforeDir="false" afterPath="$PROJECT_DIR$/order3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order3/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +50,7 @@
     <option name="BRANCH" value="origin/main" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/eureka" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/eurka1" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -36,9 +59,10 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
+        <option name="localRepository" value="E:\dev\repository" />
         <option name="mavenHome" value="D:/soft/apache-maven-3.6.0" />
         <option name="useMavenConfig" value="true" />
-        <option name="userSettingsFile" value="D:\soft\apache-maven-3.6.0\conf\settings-al.xml" />
+        <option name="userSettingsFile" value="D:\soft\apache-maven-3.6.0\conf\settings-albb.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -48,33 +72,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/workspace/springcloudorder1.10.07/order3&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.4816092&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;087ad5fdc3f55cc256786a938cada424&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "E:/workspace/springcloudorder1.10.07/eurka1/src/main/resources",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.4816092",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "087ad5fdc3f55cc256786a938cada424",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workspace\springcloudorder1.10.07\eurka1\src\main\resources" />
+      <recent name="E:\workspace\springcloudorder1.10.07\eureka\src\main\resources" />
       <recent name="E:\workspace\springcloudorder1.10.07\order3" />
       <recent name="E:\workspace\springcloudorder1.10.07\order2" />
       <recent name="E:\workspace\springcloudorder1.10.07\order3\src\main\java\com\example\order3" />
-      <recent name="E:\workspace\springcloudorder1.10.07\order3\src\main\resources" />
-      <recent name="E:\workspace\springcloudorder1.10.07" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\workspace\springcloudorder1.10.07\src" />
@@ -84,7 +111,7 @@
       <recent name="com.example.order3.config" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.Order2Application">
+  <component name="RunManager" selected="Spring Boot.Eurka1Application">
     <configuration name="Order4Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.order4.Order4Application" />
       <module name="order4" />
@@ -127,6 +154,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eureka.EurekaApplication" />
+      <option name="VM_PARAMETERS" value="--add-opens java.base/java.lang=ALL-UNNAMED" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Eurka1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eurka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurka1.Eurka1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Order1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="order1" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.order.Order1Application" />
@@ -158,6 +201,8 @@
     <list>
       <item itemvalue="Application.Order4Application" />
       <item itemvalue="JUnit.Order2ApplicationTests.contextLoads" />
+      <item itemvalue="Spring Boot.EurekaApplication" />
+      <item itemvalue="Spring Boot.Eurka1Application" />
       <item itemvalue="Spring Boot.Order3Application" />
       <item itemvalue="Spring Boot.Order2Application" />
       <item itemvalue="Spring Boot.Order1Application" />
@@ -185,7 +230,7 @@
       <workItem from="1729396421900" duration="5268000" />
       <workItem from="1729403275136" duration="1673000" />
       <workItem from="1729404992941" duration="424000" />
-      <workItem from="1729405449433" duration="379000" />
+      <workItem from="1729405449433" duration="6048000" />
     </task>
     <task id="LOCAL-00001" summary="init order">
       <created>1729307624863</created>
@@ -194,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1729307624863</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init order">
+      <created>1729405923901</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729405923901</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
