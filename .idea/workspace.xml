@@ -5,8 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cef72b17-5c9b-4b0c-a3d0-e98cf8581c4d" name="Changes" comment="init order">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eurka/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/src/main/java/com/example/eurka1/Eurka1Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka/src/main/java/com/example/eurka1/EurkaServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurka" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order2" beforeDir="false" afterPath="$PROJECT_DIR$/order2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order2/src/main/java/com/example/order/config/RestClientConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/order2/src/main/java/com/example/order/config/RestClientConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order2/src/main/java/com/example/order/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/order2/src/main/java/com/example/order/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order2/src/main/java/com/example/order/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/order2/src/main/java/com/example/order/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order2/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/order2/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order2/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/order2/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order2/target/classes/com/example/order/Order2Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/order2/target/classes/com/example/order/Order2Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order2/target/classes/com/example/order/config/RestClientConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/order2/target/classes/com/example/order/config/RestClientConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order2/target/classes/com/example/order/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/order2/target/classes/com/example/order/controller/OrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order2/target/classes/com/example/order/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/order2/target/classes/com/example/order/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order2/target/classes/com/example/order/service/OrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/order2/target/classes/com/example/order/service/OrderService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order2/target/classes/com/example/order/service/impl/OrderServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/order2/target/classes/com/example/order/service/impl/OrderServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order3" beforeDir="false" afterPath="$PROJECT_DIR$/order3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order3/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order3/src/main/java/com/example/order3/config/RestClientConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/order3/src/main/java/com/example/order3/config/RestClientConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order3/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/order3/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order3/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/order3/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order3/target/classes/com/example/order3/Order3Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/order3/target/classes/com/example/order3/Order3Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order3/target/classes/com/example/order3/config/RestClientConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/order3/target/classes/com/example/order3/config/RestClientConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order3/target/classes/com/example/order3/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/order3/target/classes/com/example/order3/controller/OrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order3/target/classes/com/example/order3/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/order3/target/classes/com/example/order3/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order3/target/classes/com/example/order3/service/OrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/order3/target/classes/com/example/order3/service/OrderService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order3/target/classes/com/example/order3/service/impl/OrderServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/order3/target/classes/com/example/order3/service/impl/OrderServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +55,7 @@
     <option name="BRANCH" value="origin/main" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/eurka" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/order3" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -56,13 +87,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "E:/workspace/springcloudorder1.10.07/eurka1/src/main/resources",
+    "last_opened_file_path": "E:/workspace/springcloudorder1.10.07/eurka/pom.xml",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.4816092",
     "settings.editor.selected.configurable": "MavenSettings",
-    "spring.configuration.checksum": "087ad5fdc3f55cc256786a938cada424",
+    "spring.configuration.checksum": "05a5f4d820f37c60ff4ca6c4bdf4d005",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -85,7 +116,7 @@
       <recent name="com.example.order3.config" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.Eurka1Application">
+  <component name="RunManager" selected="Spring Boot.Order3Application">
     <configuration name="Order4Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.order4.Order4Application" />
       <module name="order4" />
@@ -115,44 +146,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="order3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="order3" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <configuration name="EurkaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <option name="ACTIVE_PROFILES" />
       <module name="eureka" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eureka.EurekaApplication" />
-      <option name="VM_PARAMETERS" value="--add-opens java.base/java.lang=ALL-UNNAMED" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Eurka1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="eurka" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurka1.Eurka1Application" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Order1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="order1" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.order.Order1Application" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.order.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurka1.EurkaServiceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -175,15 +172,12 @@
     <list>
       <item itemvalue="Application.Order4Application" />
       <item itemvalue="JUnit.Order2ApplicationTests.contextLoads" />
-      <item itemvalue="Spring Boot.EurekaApplication" />
-      <item itemvalue="Spring Boot.Eurka1Application" />
+      <item itemvalue="Spring Boot.EurkaApplication" />
       <item itemvalue="Spring Boot.Order3Application" />
       <item itemvalue="Spring Boot.Order2Application" />
-      <item itemvalue="Spring Boot.Order1Application" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.Order1Application" />
         <item itemvalue="JUnit.Order2ApplicationTests.contextLoads" />
         <item itemvalue="Application.Order4Application" />
       </list>
@@ -204,7 +198,8 @@
       <workItem from="1729396421900" duration="5268000" />
       <workItem from="1729403275136" duration="1673000" />
       <workItem from="1729404992941" duration="424000" />
-      <workItem from="1729405449433" duration="7969000" />
+      <workItem from="1729405449433" duration="9450000" />
+      <workItem from="1729473529652" duration="10871000" />
     </task>
     <task id="LOCAL-00001" summary="init order">
       <created>1729307624863</created>
@@ -269,5 +264,16 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="init order" />
     <option name="LAST_COMMIT_MESSAGE" value="init order" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/order2/src/main/java/com/example/order/service/impl/OrderServiceImpl.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
