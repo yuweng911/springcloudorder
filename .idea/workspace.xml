@@ -4,41 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cef72b17-5c9b-4b0c-a3d0-e98cf8581c4d" name="Changes" comment="init order">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka/src/main/java/com/example/eurka1/Eurka1Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka/src/main/java/com/example/eurka1/EurkaServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eurka" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order2" beforeDir="false" afterPath="$PROJECT_DIR$/order2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order2/src/main/java/com/example/order/config/RestClientConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/order2/src/main/java/com/example/order/config/RestClientConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order2/src/main/java/com/example/order/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/order2/src/main/java/com/example/order/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order2/src/main/java/com/example/order/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/order2/src/main/java/com/example/order/service/impl/OrderServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order2/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/order2/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order2/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/order2/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order2/target/classes/com/example/order/Order2Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/order2/target/classes/com/example/order/Order2Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order2/target/classes/com/example/order/config/RestClientConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/order2/target/classes/com/example/order/config/RestClientConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order2/target/classes/com/example/order/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/order2/target/classes/com/example/order/controller/OrderController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order2/target/classes/com/example/order/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/order2/target/classes/com/example/order/controller/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order2/target/classes/com/example/order/service/OrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/order2/target/classes/com/example/order/service/OrderService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order2/target/classes/com/example/order/service/impl/OrderServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/order2/target/classes/com/example/order/service/impl/OrderServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order3" beforeDir="false" afterPath="$PROJECT_DIR$/order3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order3/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order3/src/main/java/com/example/order3/config/RestClientConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/order3/src/main/java/com/example/order3/config/RestClientConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order3/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/order3/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order3/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/order3/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order3/target/classes/com/example/order3/Order3Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/order3/target/classes/com/example/order3/Order3Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order3/target/classes/com/example/order3/config/RestClientConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/order3/target/classes/com/example/order3/config/RestClientConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order3/target/classes/com/example/order3/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/order3/target/classes/com/example/order3/controller/OrderController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order3/target/classes/com/example/order3/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/order3/target/classes/com/example/order3/controller/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order3/target/classes/com/example/order3/service/OrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/order3/target/classes/com/example/order3/service/OrderService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order3/target/classes/com/example/order3/service/impl/OrderServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/order3/target/classes/com/example/order3/service/impl/OrderServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cef72b17-5c9b-4b0c-a3d0-e98cf8581c4d" name="Changes" comment="eureka启动成功并调用成功" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +21,7 @@
     <option name="BRANCH" value="origin/main" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/order3" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/order2" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -199,7 +165,7 @@
       <workItem from="1729403275136" duration="1673000" />
       <workItem from="1729404992941" duration="424000" />
       <workItem from="1729405449433" duration="9450000" />
-      <workItem from="1729473529652" duration="10871000" />
+      <workItem from="1729473529652" duration="11199000" />
     </task>
     <task id="LOCAL-00001" summary="init order">
       <created>1729307624863</created>
@@ -229,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1729434972571</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="eureka启动成功并调用成功">
+      <created>1729516565565</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729516565565</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,7 +236,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="init order" />
-    <option name="LAST_COMMIT_MESSAGE" value="init order" />
+    <MESSAGE value="eureka启动成功并调用成功" />
+    <option name="LAST_COMMIT_MESSAGE" value="eureka启动成功并调用成功" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
