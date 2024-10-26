@@ -4,61 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cff13fae-1e75-49d7-8543-99b766f544dc" name="Changes" comment=" 除IntelliJ IDEA工作区配置文件&#10;&#10;移除了包含项目特定设置和配置的IDEA工作区文件，这将导致重新配置IDE以适应当前项目的开发需求。">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/order2_Web_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/order3_Web_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka/src/main/java/com/example/eurka1/EurkaServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka/src/test/java/com/example/eurka1/Eurka1ApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka/target/classes/com/example/eurka1/Eurka1Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka/target/classes/com/example/eurka1/EurkaServiceApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order2/src/main/java/com/example/order/Order2Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order2/src/main/java/com/example/order/config/RestClientConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order2/src/main/java/com/example/order/controller/OrderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order2/src/main/java/com/example/order/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order2/src/main/java/com/example/order/service/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order2/src/main/java/com/example/order/service/impl/OrderServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order2/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order2/src/test/java/com/example/order/Order2ApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order2/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order2/target/classes/com/example/order/Order2Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order2/target/classes/com/example/order/config/RestClientConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order2/target/classes/com/example/order/controller/OrderController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order2/target/classes/com/example/order/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order2/target/classes/com/example/order/service/OrderService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order2/target/classes/com/example/order/service/impl/OrderServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order3/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order3/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order3/src/main/java/com/example/order3/Order3Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order3/src/main/java/com/example/order3/config/RestClientConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order3/src/main/java/com/example/order3/controller/OrderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order3/src/main/java/com/example/order3/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order3/src/main/java/com/example/order3/service/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order3/src/main/java/com/example/order3/service/impl/OrderServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order3/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order3/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order3/src/test/java/com/example/order3/Order3ApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order3/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order3/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order3/target/classes/com/example/order3/Order3Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order3/target/classes/com/example/order3/config/RestClientConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order3/target/classes/com/example/order3/controller/OrderController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order3/target/classes/com/example/order3/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order3/target/classes/com/example/order3/service/OrderService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order3/target/classes/com/example/order3/service/impl/OrderServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="cff13fae-1e75-49d7-8543-99b766f544dc" name="Changes" comment="项目初始化" />
+    <list id="4c867741-2b85-46c1-97b6-22510351f67a" name="ignode" comment="忽略">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +14,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2nxJyskDVGy7LONmT50XDjMYXPz" />
@@ -110,13 +63,28 @@
     </task>
     <task active="true" id="Default" summary="Default task">
       <changelist id="cff13fae-1e75-49d7-8543-99b766f544dc" name="Changes" comment=" 除IntelliJ IDEA工作区配置文件&#10;&#10;移除了包含项目特定设置和配置的IDEA工作区文件，这将导致重新配置IDE以适应当前项目的开发需求。" />
+      <changelist id="4c867741-2b85-46c1-97b6-22510351f67a" name="ignode" comment="忽略" />
       <created>1729909050903</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729909050903</updated>
-      <workItem from="1729909052581" duration="1310000" />
+      <workItem from="1729909052581" duration="2763000" />
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="项目初始化">
+      <created>1729910437246</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729910437246</updated>
+    </task>
+    <task id="LOCAL-00003" summary="项目初始化">
+      <created>1729911815392</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729911815392</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
