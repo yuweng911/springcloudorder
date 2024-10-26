@@ -1,0 +1,13 @@
+# 服务注册中心 (单节点)
+server:
+  port: 8081
+
+spring:
+  application:
+    name: order2
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+
