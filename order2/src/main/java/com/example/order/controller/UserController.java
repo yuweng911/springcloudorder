@@ -8,6 +8,7 @@ package com.example.order.controller;
  **/
 
 
+import com.example.order.openfegin.OrderOpenFeignService;
 import com.example.order.service.OrderService;
 import jakarta.annotation.Resource;
 import org.slf4j.Logger;
@@ -21,6 +22,8 @@ public class UserController {
 
     @Resource
     public OrderService orderService;
+    @Resource
+    public OrderOpenFeignService orderOpenFeignService;
     // 1.得到日志对象
     private static Logger logger = LoggerFactory.getLogger(UserController.class);
 
@@ -33,6 +36,7 @@ public class UserController {
         logger.warn("================= warn ===============");
         logger.error("================= error ===============");
         orderService.getInfo();
+        orderOpenFeignService.getInfo("");
         return "Hi," ;
     }
 }
